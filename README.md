@@ -2,6 +2,8 @@
 
 Splunk Installation (Windows & Ubuntu)
 
+My first days in cybersecurity
+
 Spent arount 15 hours for 2 days on Splunk. Day befor spent 6-7 hours but got the same result with Wazuh.
 
 Was using my home lab: 2 computers wich had closed local network without internet + one more laptop with internet conection to be able to send something on usb and after share + old router 
