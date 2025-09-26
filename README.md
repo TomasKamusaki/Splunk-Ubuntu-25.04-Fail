@@ -4,7 +4,7 @@ Splunk Installation (Windows & Ubuntu)
 
 My first days in cybersecurity
 
-Spent arount 15 hours for 2 days on Splunk. Day befor spent 6-7 hours but got the same result with Wazuh.
+Spent arount 15 hours of 2 days on Splunk 25-26 of September 2025. Day befor spent 6-7 hours but got the same result with Wazuh 24 of September 2025
 
 Was using my home lab: 2 computers wich had closed local network without internet + one more laptop with internet conection to be able to send something on usb and after share + old router 
 
