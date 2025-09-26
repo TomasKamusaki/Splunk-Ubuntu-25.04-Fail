@@ -39,6 +39,7 @@ Outcome:
  • Improved understanding of network forwarding, monitoring, and Splunk configuration.
 
 <img width="1920" height="1080" alt="Captura de pantalla 2025-09-26 160852" src="https://github.com/user-attachments/assets/a11b23f1-3ebd-439a-aaaf-163517555929" />
+
 ![photo_14_2025-09-26_23-27-04](https://github.com/user-attachments/assets/55aed8c2-816b-4a2f-8236-66a567fbf9a4)
 ![photo_13_2025-09-26_23-27-04](https://github.com/user-attachments/assets/35775f4e-7c22-4993-8c01-a034383628b3)
 ![photo_12_2025-09-26_23-27-04](https://github.com/user-attachments/assets/20b5e0de-354c-4a96-86cf-ccfa3d2538b8)
