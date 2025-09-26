@@ -7,28 +7,33 @@ Spent arount 15 hours for 2 days on Splunk. Day befor spent 6-7 hours but got th
 During this project, I explored installing and configuring Splunk Universal Forwarder for the first time as part of my introduction to cybersecurity and Linux/Windows systems. I used ChatGPT as a technical assistant to guide me through commands, troubleshooting, and configuration steps.
 
 What I Attempted:
- • Installed Splunk Universal Forwarder on Windows, configuring TCP forwarding to a remote Splunk indexer.
+
+  • Installed Splunk Universal Forwarder on Windows, configuring TCP forwarding to a remote Splunk indexer.
  • Tried multiple installation methods, including PowerShell commands and MSI execution with administrative privileges.
  • Configured forwarders to monitor Windows event logs and forward data to a Splunk indexer.
  • Attempted installation on Ubuntu 25.04 to explore Linux deployment.
  • Worked with two computers (host and target) connected in a closed network via another router without Internet access.
 
 Results – Successes:
+ 
  • Successfully installed and configured Splunk Universal Forwarder on Windows.
  • Verified network connections and data forwarding through TCP logs.
  • Learned to read Splunk log files, monitor ingestion, and troubleshoot warnings.
  • Documented the process with screenshots for future reference.
 
 Challenges / Blockers:
+
  • Ubuntu 25.04 version was unsupported, causing installation errors and repository issues.
  • MSI installation on Windows initially failed due to command and privilege issues, which required repeated troubleshooting.
 
 Skills Developed:
+
  • Troubleshooting complex installations in Windows and Linux environments.
  • Learning cybersecurity monitoring tools in a real-world environment.
  • Persistence, documentation, and problem-solving using AI-assisted guidance.
 
 Outcome:
+ 
  • Gained practical experience with Splunk Universal Forwarder on Windows.
  • Built a personal learning portfolio with screenshots, logs, and step-by-step documentation.
  • Improved understanding of network forwarding, monitoring, and Splunk configuration.
