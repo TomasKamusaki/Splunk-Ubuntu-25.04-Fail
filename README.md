@@ -34,7 +34,7 @@ Skills Developed:
 
 Outcome:
  
- • Gained practical experience with Splunk Universal Forwarder on Windows.
+ • Gained practical experience with Splunk on Windows and Ubuntu.
  • Built a personal learning portfolio with screenshots, logs, and step-by-step documentation.
  • Improved understanding of network forwarding, monitoring, and Splunk configuration.
 
