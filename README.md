@@ -55,3 +55,4 @@ Outcome:
 ![photo_4_2025-09-26_23-27-04](https://github.com/user-attachments/assets/6e10a9b8-66d4-47dc-8398-1f1158016138)
 ![photo_3_2025-09-26_23-27-04](https://github.com/user-attachments/assets/85f8875b-f76f-4881-bc70-da6b77eafcb3)
 <img width="1920" height="1080" alt="Captura de pantalla 2025-09-26 003759" src="https://github.com/user-attachments/assets/6fc68b52-59da-4722-9577-d4557aa668a1" />
+
