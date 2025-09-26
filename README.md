@@ -56,3 +56,5 @@ Outcome:
 ![photo_3_2025-09-26_23-27-04](https://github.com/user-attachments/assets/85f8875b-f76f-4881-bc70-da6b77eafcb3)
 <img width="1920" height="1080" alt="Captura de pantalla 2025-09-26 003759" src="https://github.com/user-attachments/assets/6fc68b52-59da-4722-9577-d4557aa668a1" />
 
+On Ubuntu 24.04 works good. Spent just 2 hours to connect everething.
+Finally going to sleep.
